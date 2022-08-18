@@ -1,0 +1,3 @@
+The student's name is Kshitij
+The student's age is 45
+The dance form is bharatnatiyam
